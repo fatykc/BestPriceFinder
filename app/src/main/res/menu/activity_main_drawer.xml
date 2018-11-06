@@ -6,7 +6,7 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_location_on_black_24dp"
             android:title="Position" />
         <item
             android:id="@+id/nav_gallery"
@@ -14,11 +14,11 @@
             android:title="Scanner le produit" />
         <item
             android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/ic_search_black_24dp"
             android:title="Rechercher un produit" />
         <item
             android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_list_black_24dp"
             android:title="Listes des courses" />
     </group>
 
@@ -35,7 +35,7 @@
 
             <item
                 android:id="@+id/nav_tuto"
-
+                android:icon="@drawable/ic_note_black_24dp"
                 android:title="Tuto d'utilisation" />
         </menu>
     </item>
